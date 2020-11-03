@@ -122,7 +122,7 @@ ul {
 
 .email-submit {
     border: none;
-    background: url(../images/logomail_10.jpg);
+    background: url(/logomail_10.84cf1020.jpg);
     width: 30px;
     margin-left: 190px;
     margin-top: 85px;
@@ -199,3 +199,6 @@ footer {
 .footer_menu:hover {
     color: black;
 }
+
+
+/*# sourceMappingURL=/style.a11e3109.css.map */
